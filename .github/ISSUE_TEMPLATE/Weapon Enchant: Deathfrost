@@ -1,0 +1,4 @@
+Weapon Enchant: Deathfrost doesn't procc properly. 
+It should procc every few seconds with ~150 frost damage on target, plus debuff.
+Frost damage proccs fine, but the debuff doesn't.
+The debuff reduces attack speed and cast speed by 15% - movement speed reduction is only for targets below level 73.
